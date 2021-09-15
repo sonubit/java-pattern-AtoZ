@@ -1,4 +1,0 @@
-adb devices
-adb tcpip 9999
-adb connect 192.168.1.5:9999
-scrcpy
